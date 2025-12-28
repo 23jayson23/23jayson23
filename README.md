@@ -35,11 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - 💼 LinkedIn:https://www.linkedin.com/in/jayson-reyes-abb4aa25b/
 - 📧 Email: reyes.jayson5282@gmail.com
